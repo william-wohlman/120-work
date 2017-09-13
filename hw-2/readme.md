@@ -40,4 +40,4 @@ On a side note, I found [this link](https://github.com/adam-p/markdown-here/wiki
     }
 ```
 
-![Image of my editor](../editor_screenshot.png)
+![Image of my editor](editor_screenshot.png)
