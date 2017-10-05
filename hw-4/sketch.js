@@ -6,9 +6,13 @@ function setup(){
 function draw(){
   background('rgb(55, 97, 91)');
 
+  push();
+  translate(200,0);
   textAlign(CENTER);
   textSize(20);
   text("Babba Yagga's House", 0, 27);
+  translate(-200,0);
+  pop();
   //legs
   push();
   translate(300,450)
